@@ -1,0 +1,7 @@
+requests
+tk
+streamlit
+streamlit-mic-recorder
+SpeechRecognition
+pandas
+dateparser
