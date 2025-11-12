@@ -1,0 +1,12 @@
+{
+  "sender_email": "your_email@example.com",
+  "sender_password": "app-specific-password",
+  "calendly_link": "https://calendly.com/your-handle/30min",
+  "groq_api_key": "groq_api_key_placeholder",
+  "groq_model": "llama-3.1-8b-instant",
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 465,
+  "flask_host": "0.0.0.0",
+  "flask_port": 5001,
+  "rsvp_base_url": "http://192.168.0.10:5001"
+}
